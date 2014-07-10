@@ -1,0 +1,3 @@
+name: SurferDev-t3
+main: com.tenjava.entries.SurferDev.t3.TenJava
+version: '${project.version}'
